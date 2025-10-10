@@ -43,7 +43,8 @@ logic diagram f1
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 224329" src="https://github.com/user-attachments/assets/e149e8d8-3aa7-405a-b729-9c1c4d1fc3c1" />
 
 
-wave form f2
+wave form f1
+
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 224713" src="https://github.com/user-attachments/assets/fa4ab791-e0d9-4c87-bf41-1d6023d67eb4" />
 
 
